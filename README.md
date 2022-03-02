@@ -26,7 +26,7 @@ Eu sou um jovem programador que adora fazer sites
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 
   
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fdisappointed-anime-gif-13.gif&f=1&nofb=1">
 </div>
 
  ##

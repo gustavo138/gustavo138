@@ -9,7 +9,7 @@ Eu sou um jovem programador que adora fazer sites
 - ⚡ Fato Aleatorio: Rust e lindo 
 
 
-<div>
+<div align="center" >
   
   <a href="https://github.com/gustavo138">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo138&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -26,7 +26,7 @@ Eu sou um jovem programador que adora fazer sites
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="">
 </div>
 
  ##

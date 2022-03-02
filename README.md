@@ -9,8 +9,7 @@ Eu sou um jovem programador que adora fazer sites
 - 📫 Como me achar: meu discord e zamn#5723 e meu twitter e @DiaKotaka
 - 😄 Pronomes: ro/ck 
 - ⚡ Fato Aleatorio: Rust e lindo 
-- 
- <img align="right" alt="gif1" height="150" style="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.anime-tooon.com%2Fup%2Fuploads%2Fat159500955137161.gif&f=1&nofb=1">
+-
 
 ##
 
@@ -19,6 +18,7 @@ Eu sou um jovem programador que adora fazer sites
   <a href="https://github.com/gustavo138">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo138&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo138&layout=compact&langs_count=7&theme=dark"/>
+ <img align="right"alt="gif1"height="150"style="https://externalcontent.duckduckgo.com/iu/u=https%3A%2F%2Fwww.animetooon.com%2Fup%2Fuploads%2Fat159500955137161.gif&f=1&nofb=1">
  </div>
   
   </div>

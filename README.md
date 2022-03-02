@@ -1,6 +1,6 @@
 ### Oi como vai? 👋
 
-Sobre mim:
+I USE ARCH BTW
 
 ##
 <div>

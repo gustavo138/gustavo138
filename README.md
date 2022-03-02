@@ -1,8 +1,6 @@
 ### Oi como vai? 👋
 
-**gustavo138/gustavo138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Eu sou um jovem programador que adora fazer sites
 
 - 🔭 Estou atualmente trabalhando em: NADA
 - 🌱 Estou Aprendendo: Rust e SQL 

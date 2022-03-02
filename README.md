@@ -9,7 +9,9 @@ Eu sou um jovem programador que adora fazer sites
 - 📫 Como me achar: meu discord e zamn#5723 e meu twitter e @DiaKotaka
 - 😄 Pronomes: ro/ck 
 - ⚡ Fato Aleatorio: Rust e lindo 
+ <img align="right" alt="gif" height="150" style="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcb%2F03%2F3a%2Fcb033a9043b4e57fb8fbcf3f692922f3.gif&f=1&nofb=1">
 
+##
 
 <div align="center" >
   

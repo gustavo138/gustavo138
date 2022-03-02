@@ -10,7 +10,7 @@ I USE ARCH BTW
 - ⚡ Fato Aleatorio: AA
   
   
-  <img align="rigth" alt="gif" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcb%2F03%2F3a%2Fcb033a9043b4e57fb8fbcf3f692922f3.gif&f=1&nofb=1">
+  <img align="center" alt="gif" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcb%2F03%2F3a%2Fcb033a9043b4e57fb8fbcf3f692922f3.gif&f=1&nofb=1">
 </div>
 
 ##
@@ -19,7 +19,7 @@ I USE ARCH BTW
   
   <a href="https://github.com/gustavo138">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo138&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo138&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo138&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
  ## 

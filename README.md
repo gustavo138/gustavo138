@@ -44,4 +44,9 @@ I USE ARCH BTW
   <a href = "mailto:gustavosantos070709@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  </div>
-  
+   
+  <div>
+<h2 align="center">OBRIGADO POR LER </h2>
+<div align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_m3km0jxBoD1qjdyzdo1_500.gif&f=1&nofb=1">
+</div>

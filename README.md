@@ -1,6 +1,6 @@
 ### Oi como vai? 👋
 
-Eu sou um jovem programador que adora fazer sites
+Sobre mim:
 
 ##
 <div>

@@ -35,15 +35,6 @@ I USE ARCH BTW
   
   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F10%2Fdisappointed-anime-gif-13.gif&f=1&nofb=1">
 </div>
-
- ##
-
-  <div> 
-  <a href="https://www.youtube.com/channel/UCfffjpRJygbJD3aO4F3jPSw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/https://discord.gg/JJHf3hvp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gustavosantos070709@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- </div>
    
   ##
   

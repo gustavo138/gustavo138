@@ -20,7 +20,7 @@ I USE ARCH BTW
   <a href="https://github.com/gustavo138">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo138&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
     
-    <strong> meus status do github </strong>
+   <h2> MEUS STATUS DO GITHUB <h2>
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo138&layout=compact&langs_count=10&theme=dark"/>
   </div>

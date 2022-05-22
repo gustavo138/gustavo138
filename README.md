@@ -5,7 +5,7 @@ I USE ARCH BTW
 ##
 <div>
 - 🔭 Estou atualmente trabalhando em: Sites
-- 🌱 Estou Aprendendo: Rust e SQL 
+- 🌱 Estou Aprendendo: C 
 - 😄 Pronomes: ro/ck 
 - ⚡ Fato Aleatorio: AA
   

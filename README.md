@@ -34,5 +34,4 @@
   <div>
 <h2 align="center">OBRIGADO POR LER </h2>
 <div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_m3km0jxBoD1qjdyzdo1_500.gif&f=1&nofb=1">
 </div>

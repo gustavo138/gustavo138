@@ -1,14 +1,10 @@
 ### Oi como vai? 👋
 
-I USE ARCH BTW
 
 ##
 <div>
 - 🔭 Estou atualmente trabalhando em: Sites
-- 🌱 Estou Aprendendo: C 
-- 😄 Pronomes: ro/ck 
-- ⚡ Fato Aleatorio: AA
-  
+- 🌱 Estou Aprendendo: C, Python, Java Script, Sistemas Embarcados e etc... 
   
   <img align="center" alt="gif" height="150" style="border-radius:50px;" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fcb%2F03%2F3a%2Fcb033a9043b4e57fb8fbcf3f692922f3.gif&f=1&nofb=1">
 </div>
